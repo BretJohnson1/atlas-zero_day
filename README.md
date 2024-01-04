@@ -1,2 +1,2 @@
 # atlas-zero_day
-atlas rules
+This has been fun and stressful at the same time!
